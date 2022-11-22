@@ -1,0 +1,23 @@
+body{
+	background-color: #200107;
+	font-family:'Arial', Times, serif ;
+	font-size: 15px;
+	
+	
+}
+
+#principal{
+	color: white;	
+	width: 975px;
+	
+}
+
+.menu{
+	background-color: #0f0003 ;
+	padding: 18px;
+	width: 930px;
+	color: white
+	
+}
+
+	
